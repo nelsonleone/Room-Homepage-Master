@@ -110,11 +110,11 @@ export const StyledTabList = styled.div`
 
    @media (min-width:60rem) {
       left:58.7%;
-      top:30.85em;
-      width:9.5em;
+      top:30.7em;
+      width:10.5em;
 
       button{
-         height:5em;
+         height:5.2em;
          img{
             width:1em;
          }

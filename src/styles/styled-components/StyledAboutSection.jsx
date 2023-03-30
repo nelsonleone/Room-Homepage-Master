@@ -36,7 +36,7 @@ export const StyledAboutSection = styled.section`
 
   @media (min-width:50rem) {
       grid-template-rows: unset;
-      grid-template-columns: 30% 40% 30%;
+      grid-template-columns: 30% 42% 28%;
       gap:0;
       top:35em;
 
